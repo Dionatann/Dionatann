@@ -1,8 +1,8 @@
+<a href="https://wakatime.com/badge/github/gitrotoline/MES"><img src="https://wakatime.com/badge/github/gitrotoline/MES.svg" alt="wakatime"></a>
 <div align="center">
   <a href="https://github.com/Dionatann">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dionatann&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dionatann&layout=compact&langs_count=7&theme=dark"/>
-  <a href="https://wakatime.com/badge/github/gitrotoline/MES"><img src="https://wakatime.com/badge/github/gitrotoline/MES.svg" alt="wakatime"></a>
 </div>
 <div style="display: inline_block" align="center"><br>
   
