@@ -6,13 +6,14 @@
 </div>
 <div style="display: inline_block" align="center"><br>
   
-  <img align="center" alt="Dionatan-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img align="center" alt="Dionatan-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
   <img align="center" alt="Dionatan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Dionatan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Dionatan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Dionatan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Dionatan-django" height="30" widht="40" src="https://icon-library.com/images/django-icon/django-icon-0.jpg">
-</div>
+  <img align="center" alt="Dionatan-MySql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+          
+  </div>
 
   ##
   
