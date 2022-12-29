@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, i'm Dionatan M.</h1><p>&#128516;</p>
+  <h1>Hi, i'm Dionatan M. <p>&#128516;</p></h1>
 </div>
 
 <a href="https://wakatime.com/badge/github/gitrotoline/MES"><img src="https://wakatime.com/badge/github/gitrotoline/MES.svg" alt="wakatime"></a>
