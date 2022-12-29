@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Hi, i'm Dionatan M.</h1>
-</div><hr>
+  <h1>Hi, i'm Dionatan M.</h1><p>&#128516;</p>
+</div>
 
 <a href="https://wakatime.com/badge/github/gitrotoline/MES"><img src="https://wakatime.com/badge/github/gitrotoline/MES.svg" alt="wakatime"></a>
 <div align="center">
