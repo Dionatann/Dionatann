@@ -4,10 +4,10 @@
 
 <div>
   <a href="https://wakatime.com/badge/github/gitrotoline/MES"><img src="https://wakatime.com/badge/github/gitrotoline/MES.svg" alt="wakatime">MES</a>
-</div>
+</div><br>
 <div>
   <a href="https://wakatime.com/badge/user/132d7a0b-c5c4-4a30-89d3-d98622557331/project/f5c523bf-87ae-4fb1-8c5b-aa701c68e551"><img      src="https://wakatime.com/badge/user/132d7a0b-c5c4-4a30-89d3-d98622557331/project/f5c523bf-87ae-4fb1-8c5b-aa701c68e551.svg" alt="wakatime">Customers</a>
-</div>
+</div><br>
 
 <div align="center">
   <a href="https://github.com/Dionatann">
