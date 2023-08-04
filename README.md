@@ -9,7 +9,7 @@
 </div><br>
 <div>
   <b>API Client</b><br>
-  <a href="https://wakatime.com/badge/user/132d7a0b-c5c4-4a30-89d3-d98622557331/project/21bb0f67-5820-4ee0-aedf-41df82772a35"><img src="https://wakatime.com/badge/user/132d7a0b-c5c4-4a30-89d3-"></a>
+  <a href="https://wakatime.com/badge/user/132d7a0b-c5c4-4a30-89d3-d98622557331/project/21bb0f67-5820-4ee0-aedf-41df82772a35"><img src="https://wakatime.com/badge/user/132d7a0b-c5c4-4a30-89d3-d98622557331/project/21bb0f67-5820-4ee0-aedf-41df82772a35.svg" alt="wakatime"></a>
 </div><br>
 <div>
   <b>Portal Customers</b><br>
