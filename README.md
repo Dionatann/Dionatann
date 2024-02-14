@@ -15,7 +15,7 @@
    alt="wakatime"></a>
 </div>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Dionatans&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Dionatan&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
   <a href="https://github.com/Dionatann">
@@ -51,4 +51,3 @@
 </div>
   
   
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dionatan&show_icons=true&theme=transparent)
