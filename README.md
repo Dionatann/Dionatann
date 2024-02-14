@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi, i'm Dionatan</h1><br>
   <p>My <b>Profile</b> and coding time in projects<a href="https://wakatime.com/@Dionatan"><button> Acess - WakaTime</button><a></p>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dionatan&show_icons=true&theme=transparent)
+ 
   <b>Portal Customers</b><br>
     <a href="https://wakatime.com/badge/user/132d7a0b-c5c4-4a30-89d3-d98622557331/project/f5c523bf-87ae-4fb1-8c5b-aa701c68e551"><img src="https://wakatime.com/badge/user/132d7a0b-c5c4-4a30-89d3-d98622557331/project/f5c523bf-87ae-4fb1-8c5b-aa701c68e551.svg" alt="wakatime">    </a>
 
@@ -56,4 +56,4 @@
 </div>
   
   
-![Snake animation](https://github.com/Dionatann/Dionatann/blob/output/github-contribution-grid-snake.svg)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dionatan&show_icons=true&theme=transparent)
