@@ -1,10 +1,7 @@
 <div align="center">
-    <h1>Hi, i'm Dionatan</h1><br>
+    <h1>Hi, i'm Dionatan</h1>  <a href="https://www.linkedin.com/in/dionatan-maicon-33a70619b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <br>
     <p>My <b>Profile</b> and coding time in projects<a href="https://wakatime.com/@Dionatan"><button> Acess - WakaTime</button><a></p>
-    <div>   
-      <a href="https://www.linkedin.com/in/dionatan-maicon-33a70619b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    </div>
-          
 </div>
         
 <div align="center">
