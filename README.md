@@ -5,8 +5,9 @@
             <button> Acess - WakaTime</button>
         <a>     
      </p>
+     Hours total - 
      <a href="https://wakatime.com/@132d7a0b-c5c4-4a30-89d3-d98622557331"><img src="https://wakatime.com/badge/user/132d7a0b-c5c4-4a30-89d3-d98622557331.svg" alt="Total time coded since Jul 18 2022" /></a>
-</div>
+</div><br>
         
 <div align="center">
   <a href="https://github.com/Dionatann">
