@@ -1,5 +1,11 @@
 <div align="center">
-    <p>My <b>Profile</b> and coding time in projects<a href="https://wakatime.com/@Dionatan"><button> Acess - WakaTime</button><a></p>
+    <p>
+        My <b>Profile</b> and coding time in projects
+        <a href="https://wakatime.com/@Dionatan">
+            <button> Acess - WakaTime</button>
+        <a>     
+     </p>
+     <a href="https://wakatime.com/@132d7a0b-c5c4-4a30-89d3-d98622557331"><img src="https://wakatime.com/badge/user/132d7a0b-c5c4-4a30-89d3-d98622557331.svg" alt="Total time coded since Jul 18 2022" /></a>
 </div>
         
 <div align="center">
