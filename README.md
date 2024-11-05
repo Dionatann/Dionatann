@@ -2,13 +2,10 @@
     <span class="pl-k">let</span> name = <span class="pl-c1">'</span><span class="pl-v">Rafael</span> <span class="pl-v">Carneiro</span><span class="pl-c1">'</span><span class="pl-kos">;</span>
     <span class="pl-k">let</span> acknowledgements = <span class="pl-c1">'</span><span class="pl-v">Software</span> <span class="pl-v">Engineer</span><span class="pl-c1">'</span><span class="pl-kos">;</span>
 
-    <span class="pl-k">let</span> location = <span class="pl-c1">'</span><span class="pl-v">Fortaleza</span><span class="pl-kos">,</span> <span class="pl-v">Ceara</span><span class="pl-kos">,</span> <span class="pl-v">Brazil</span><span class="pl-c1">'</span><span class="pl-kos">;</span>
-    <span class="pl-k">let</span> company = <span class="pl-c1">'</span><span class="pl-v">O2D</span> - <span class="pl-v">On</span> <span class="pl-v">Demand</span> <span class="pl-v">Development</span><span class="pl-c1">'</span><span class="pl-kos">;</span>
 <span class="pl-kos">}</span></pre><div class="zeroclipboard-container position-absolute right-0 top-0">
     <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0" data-copy-feedback="Copied!" data-tooltip-direction="w" value="fn main() {
     let name = 'Dionatan Maicon';
     let acknowledgements = 'Software Developer - Software';
-
     let location = 'Chapecó, SC, Brazil';
     let company = 'Rotoline Inc';
 }
