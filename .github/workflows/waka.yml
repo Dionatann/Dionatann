@@ -1,8 +1,8 @@
-name: Atualizar métricas do WakaTime
+name: Update WakaTime metrics
 
 on:
   schedule:
-    # todos os dias às 03:00 UTC (00:00 em Brasília)
+    # daily at 03:00 UTC
     - cron: "0 3 * * *"
   workflow_dispatch:
 
@@ -11,13 +11,13 @@ permissions:
 
 jobs:
   waka:
-    name: Escrever tabela no README
+    name: Write the table into the README
     runs-on: ubuntu-latest
     steps:
-      # Sem o secret configurado, os passos seguintes são pulados em vez de
-      # falhar todo dia.  Para ativar:
+      # Without the secret the remaining steps are skipped instead of failing
+      # every day.  To enable:
       #   gh secret set WAKATIME_API_KEY --repo Dionatann/Dionatann
-      - name: Verificar se o secret existe
+      - name: Check whether the secret exists
         id: check
         env:
           WAKA_KEY: ${{ secrets.WAKATIME_API_KEY }}
@@ -26,13 +26,13 @@ jobs:
             echo "has_key=true" >> "$GITHUB_OUTPUT"
           else
             echo "has_key=false" >> "$GITHUB_OUTPUT"
-            echo "::notice::WAKATIME_API_KEY nao configurado; nada a fazer."
+            echo "::notice::WAKATIME_API_KEY is not configured; nothing to do."
           fi
 
       - uses: actions/checkout@v4
         if: steps.check.outputs.has_key == 'true'
 
-      - name: Gerar a tabela de horas por linguagem
+      - name: Build the per-language hours table
         if: steps.check.outputs.has_key == 'true'
         uses: athul/waka-readme@v0.3.1
         with:
@@ -44,4 +44,4 @@ jobs:
           LANG_COUNT: 8
           SHOW_TIME: "true"
           SHOW_TOTAL: "true"
-          COMMIT_MESSAGE: "chore: atualiza metricas do WakaTime"
+          COMMIT_MESSAGE: "chore: update WakaTime metrics"
