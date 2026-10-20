@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:1f6feb,100:58a6ff&height=190&section=header&text=Dionatan&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Python%20%E2%80%A2%20Automation&descAlignY=58&descSize=17" width="100%" alt="banner" />
+<img src="assets/hero.svg" width="100%" alt="Terminal booting the profile as a backend service" />
 
 </div>
 
@@ -13,7 +13,7 @@
 | **Main** | Python |
 | **Also** | C#, JavaScript |
 | **Editor** | Orca (ADE) for agent work, PyCharm for Python |
-| **Focus** | process automation and my own projects |
+| **Focus** | backend, process automation and my own projects |
 | **Learning** | applied AI and agent orchestration |
 | **On GitHub since** | October 2021 |
 
@@ -62,11 +62,5 @@
 
 <a href="mailto:dionatanmaicon10@gmail.com"><img src="https://img.shields.io/badge/E--mail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="e-mail" /></a>
 <a href="https://wakatime.com/@Dionatan"><img src="https://img.shields.io/badge/WakaTime-0d1117?style=for-the-badge&logo=wakatime&logoColor=ffffff" alt="wakatime" /></a>
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,55:1f6feb,100:0d1117&height=120&section=footer" width="100%" alt="footer" />
 
 </div>
