@@ -68,6 +68,22 @@
 </div>
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 13 October 2026 - To: 20 October 2026
+
+Total Time: 14 hrs 35 mins
+
+Markdown     7 hrs 5 mins    ███████████▓░░░░░░░░░░░░░   46.80 %
+Python       5 hrs 6 mins    ████████▒░░░░░░░░░░░░░░░░   33.72 %
+HTML         1 hr 26 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.46 %
+C#           34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
+Other        34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
+Text         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
+JavaScript   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+Docker       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+```
+
 <!--END_SECTION:waka-->
 
 <div align="center">
