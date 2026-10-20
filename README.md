@@ -76,11 +76,15 @@ aprendendo: IA aplicada e orquestração de agentes
 <br/><br/>
 
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dionatann&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="linguagens mais usadas" />
-<img height="180" src="https://github-profile-trophy.vercel.app/?username=Dionatann&theme=discord&no-frame=true&no-bg=true&column=2&row=3&margin-w=6&margin-h=6" alt="troféus" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dionatann&theme=github_dark&utcOffset=-3" alt="horários mais produtivos" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dionatann&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=1f6feb&area=true&area_color=1f6feb&hide_border=true&custom_title=Atividade%20dos%20%C3%BAltimos%2031%20dias" width="98%" alt="gráfico de atividade" />
+<img src="https://ghchart.rshah.org/58a6ff/Dionatann" width="98%" alt="grade de contribuições do último ano" />
+
+<br/><br/>
+
+<img src="https://github-trophies.vercel.app/?username=Dionatann&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="98%" alt="troféus" />
 
 </div>
 
@@ -160,7 +164,10 @@ aprendendo: IA aplicada e orquestração de agentes
 
 <div align="center">
 
+<!-- A animação é gerada pelo workflow .github/workflows/main.yml, que publica
+     o snake.svg no branch output. Descomente depois do primeiro run bem-sucedido.
 <img src="https://raw.githubusercontent.com/Dionatann/Dionatann/output/snake.svg" width="98%" alt="animação de contribuições" />
+-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,55:1f6feb,100:0d1117&height=120&section=footer" width="100%" alt="footer" />
 
