@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:1f6feb,100:58a6ff&height=190&section=header&text=Dionatan&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Python%20%E2%80%A2%20Automation%20%E2%80%A2%20Continuous%20learning&descAlignY=58&descSize=16" width="100%" alt="banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1400&color=58A6FF&center=true&vCenter=true&width=640&lines=Python%2C+automation+and+my+own+projects;Antigravity+open%2C+Claude+Code+alongside;On+GitHub+since+2021" alt="intro" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1400&color=58A6FF&center=true&vCenter=true&width=640&lines=Python%2C+automation+and+my+own+projects;Orca+open%2C+agents+running+in+parallel;On+GitHub+since+2021" alt="intro" />
 
 </div>
 
@@ -14,7 +14,7 @@
 |:--|:--|
 | **Base** | Python |
 | **Also use** | JavaScript, C#, Node, React, HTML and CSS |
-| **Editor** | Antigravity day to day, PyCharm for the heavy Python |
+| **Editor** | Orca (ADE) for agent work, PyCharm for the heavy Python |
 | **Focus** | process automation and my own projects |
 | **Learning** | applied AI and agent orchestration |
 | **On GitHub since** | October 2021 |
@@ -46,7 +46,7 @@
 <tr>
 <td align="center"><b>Workbench</b></td>
 <td>
-<img src="https://img.shields.io/badge/Antigravity-0d1117?style=for-the-badge&labelColor=0d1117&color=0d1117" alt="antigravity" />
+<a href="https://www.onorca.dev/"><img src="https://img.shields.io/badge/Orca%20ADE-0d1117?style=for-the-badge&labelColor=0d1117&color=0d1117" alt="orca ade" /></a>
 <img src="https://img.shields.io/badge/PyCharm-0d1117?style=for-the-badge&logo=pycharm&logoColor=00E676" alt="pycharm" />
 <img src="https://img.shields.io/badge/Claude-0d1117?style=for-the-badge&logo=anthropic&logoColor=D97757" alt="claude" />
 <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032" alt="git" />
