@@ -65,7 +65,7 @@ Docker       1 min           ░░░░░░░░░░░░░░░░░
 <div align="center">
 
 <img height="180" src="https://streak-stats.demolab.com?user=Dionatann&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="contributions and streak" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dionatann&layout=compact&langs_count=6&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="languages across repositories" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dionatann&layout=compact&langs_count=4&hide=java,powershell&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="languages across repositories" />
 
 <br/><br/>
 
