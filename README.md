@@ -1,72 +1,71 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:1f6feb,100:58a6ff&height=190&section=header&text=Dionatan&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Dev%20%E2%80%A2%20Python%20%E2%80%A2%20Web%20%E2%80%A2%20IA&descAlignY=58&descSize=16" width="100%" alt="banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:1f6feb,100:58a6ff&height=190&section=header&text=Dionatan&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Python%20%E2%80%A2%20Automa%C3%A7%C3%A3o%20%E2%80%A2%20Aprendizado%20cont%C3%ADnuo&descAlignY=58&descSize=16" width="100%" alt="banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=Construindo+em+p%C3%BAblico%2C+um+commit+por+vez;Python%2C+JavaScript+e+o+que+o+projeto+pedir;Automatizando+o+que+d%C3%A1+pra+automatizar" alt="typing" />
-
-<br/>
-
-<a href="https://github.com/Dionatann?tab=followers">
-  <img src="https://img.shields.io/github/followers/Dionatann?style=for-the-badge&logo=github&logoColor=c9d1d9&label=SEGUIDORES&labelColor=0d1117&color=1f6feb" alt="seguidores" />
-</a>
-<a href="https://github.com/Dionatann?tab=repositories">
-  <img src="https://img.shields.io/badge/REPOS-86-0d1117?style=for-the-badge&logo=git&logoColor=c9d1d9&labelColor=0d1117&color=1f6feb" alt="repos" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=Dionatann&style=for-the-badge&color=1f6feb&label=VISITAS" alt="visitas" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1400&color=58A6FF&center=true&vCenter=true&width=640&lines=Minha+linguagem+favorita+%C3%A9+a+que+resolve;Automatizar+%C3%A9+delegar+pro+futuro;Aprendizado+em+loop%2C+sem+break" alt="apresentação" />
 
 </div>
 
 <br/>
 
-## &nbsp;⟡&nbsp; Sobre
+## Leia-me
 
-```yaml
-nome:       Dionatan
-stack:      Python, JavaScript, Java, Web
-construindo: projetos próprios e automações
-foco:       sair do tutorial e entregar coisa que roda
-aprendendo: IA aplicada e orquestração de agentes
-```
-
-- 🐍 Comecei em **Python** e fui abrindo pra web — React, Node, Electron.
-- 🔧 Hoje mexo com **automação** e **IA aplicada** em projetos próprios.
-- 📊 Meço meu tempo de código pra saber onde ele realmente vai.
-- 💬 Aberto a trocar ideia sobre projeto, código e carreira.
+|  |  |
+|:--|:--|
+| **Base** | Python |
+| **No dia a dia** | JavaScript, Node, React, HTML/CSS — a linguagem segue o problema, não o contrário |
+| **Foco** | automação de processos e projetos próprios |
+| **Em estudo** | IA aplicada e orquestração de agentes |
+| **Princípio** | se fiz duas vezes na mão, na terceira vira script |
 
 <br/>
 
-## &nbsp;⟡&nbsp; Stack
+## Ferramental
 
 <div align="center">
 
-**Linguagens**
-
+<table>
+<tr>
+<td align="center"><b>Principal</b></td>
+<td>
 <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB" alt="python" />
+</td>
+</tr>
+<tr>
+<td align="center"><b>No dia a dia</b></td>
+<td>
 <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
-<img src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ffffff" alt="java" />
-<img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26" alt="html5" />
-<img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6" alt="css3" />
-
-**Frameworks & Runtime**
-
 <img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="node" />
 <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" />
-<img src="https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" alt="next" />
-<img src="https://img.shields.io/badge/Electron-0d1117?style=for-the-badge&logo=electron&logoColor=47848F" alt="electron" />
-<img src="https://img.shields.io/badge/Hapi-0d1117?style=for-the-badge&logo=hapi&logoColor=F58502" alt="hapi" />
-
-**Ferramentas**
-
+<img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26" alt="html5" />
+<img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6" alt="css3" />
+</td>
+</tr>
+<tr>
+<td align="center"><b>Oficina</b></td>
+<td>
+<img src="https://img.shields.io/badge/PyCharm-0d1117?style=for-the-badge&logo=pycharm&logoColor=00E676" alt="pycharm" />
 <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032" alt="git" />
 <img src="https://img.shields.io/badge/GitHub%20Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=2088FF" alt="github actions" />
-<img src="https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" alt="vs code" />
 <img src="https://img.shields.io/badge/Claude-0d1117?style=for-the-badge&logo=anthropic&logoColor=D97757" alt="claude" />
+</td>
+</tr>
+</table>
 
 </div>
 
 <br/>
 
-## &nbsp;⟡&nbsp; Métricas
+## Para onde vai o tempo
+
+<div align="center">
+
+<img src="https://wakatime.com/badge/user/132d7a0b-c5c4-4a30-89d3-d98622557331.svg?style=for-the-badge&color=1f6feb" alt="horas totais medidas pelo WakaTime" />
+
+</div>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <div align="center">
 
@@ -75,52 +74,18 @@ aprendendo: IA aplicada e orquestração de agentes
 
 <br/><br/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dionatann&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="linguagens mais usadas" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dionatann&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="linguagens nos repositórios" />
 <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dionatann&theme=github_dark&utcOffset=-3" alt="horários mais produtivos" />
 
 <br/><br/>
 
 <img src="https://ghchart.rshah.org/58a6ff/Dionatann" width="98%" alt="grade de contribuições do último ano" />
 
-<br/><br/>
-
-<img src="https://github-trophies.vercel.app/?username=Dionatann&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="98%" alt="troféus" />
-
 </div>
-
-<!--
-  ============================================================
-  TEMPO DE CÓDIGO (WakaTime)
-  ------------------------------------------------------------
-  Pra ativar:
-    1. Crie conta em wakatime.com e instale a extensão no editor
-    2. Em wakatime.com/settings/profile marque:
-         [x] Display coding activity publicly
-         [x] Display languages, editors, operating systems publicly
-    3. Troque SEU_WAKA abaixo pelo seu usuário do WakaTime
-    4. Descomente este bloco (apague a linha de abertura e a de fechamento)
-    5. Adicione o secret WAKATIME_API_KEY e o workflow waka.yml
-  ============================================================
-
-## &nbsp;⟡&nbsp; Tempo de código
-
-<div align="center">
-
-<img src="https://wakatime.com/badge/user/SEU_WAKA.svg?style=for-the-badge&color=1f6feb" alt="horas totais" />
-
-<br/><br/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/wakatime?username=SEU_WAKA&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="tempo de código por linguagem" />
-
-</div>
-
--->
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 <br/>
 
-## &nbsp;⟡&nbsp; Projetos
+## Commitado
 
 <div align="center">
 
@@ -133,30 +98,24 @@ aprendendo: IA aplicada e orquestração de agentes
 <a href="https://github.com/Dionatann/personal-agenda">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Dionatann&repo=personal-agenda&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb" alt="personal-agenda" />
 </a>
-<a href="https://github.com/Dionatann/Campeonato">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Dionatann&repo=Campeonato&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb" alt="Campeonato" />
+<a href="https://github.com/Dionatann/ELECTRON-FirstApp">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Dionatann&repo=ELECTRON-FirstApp&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb" alt="ELECTRON-FirstApp" />
 </a>
 
 </div>
 
 <br/>
 
-## &nbsp;⟡&nbsp; Contato
+## Contato
 
 <div align="center">
 
 <a href="mailto:dionatanmaicon10@gmail.com">
-  <img src="https://img.shields.io/badge/E--mail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="email" />
+  <img src="https://img.shields.io/badge/E--mail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="e-mail" />
 </a>
-<a href="https://github.com/Dionatann">
-  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff" alt="github" />
+<a href="https://wakatime.com/@Dionatan">
+  <img src="https://img.shields.io/badge/WakaTime-0d1117?style=for-the-badge&logo=wakatime&logoColor=ffffff" alt="wakatime" />
 </a>
-
-<!-- Adicione seus perfis:
-<a href="https://www.linkedin.com/in/SEU_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="linkedin" />
-</a>
--->
 
 </div>
 
@@ -164,8 +123,8 @@ aprendendo: IA aplicada e orquestração de agentes
 
 <div align="center">
 
-<!-- A animação é gerada pelo workflow .github/workflows/main.yml, que publica
-     o snake.svg no branch output. Descomente depois do primeiro run bem-sucedido.
+<!-- A animação é gerada por .github/workflows/main.yml, que publica o snake.svg
+     no branch output. Descomente depois do primeiro run bem-sucedido.
 <img src="https://raw.githubusercontent.com/Dionatann/Dionatann/output/snake.svg" width="98%" alt="animação de contribuições" />
 -->
 
