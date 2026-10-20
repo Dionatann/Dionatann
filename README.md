@@ -43,25 +43,6 @@
 
 </div>
 
-<!--START_SECTION:waka-->
-
-```txt
-From: 13 October 2026 - To: 20 October 2026
-
-Total Time: 14 hrs 35 mins
-
-Markdown     7 hrs 5 mins    ███████████▓░░░░░░░░░░░░░   46.80 %
-Python       5 hrs 6 mins    ████████▒░░░░░░░░░░░░░░░░   33.72 %
-HTML         1 hr 26 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.46 %
-C#           34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
-Other        34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
-Text         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
-JavaScript   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
-Docker       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
-```
-
-<!--END_SECTION:waka-->
-
 <div align="center">
 
 <img height="180" src="https://streak-stats.demolab.com?user=Dionatann&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="contributions and streak" />
