@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:1f6feb,100:58a6ff&height=190&section=header&text=Dionatan&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Python%20%E2%80%A2%20Automa%C3%A7%C3%A3o%20%E2%80%A2%20Aprendizado%20cont%C3%ADnuo&descAlignY=58&descSize=16" width="100%" alt="banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1400&color=58A6FF&center=true&vCenter=true&width=640&lines=Minha+linguagem+favorita+%C3%A9+a+que+resolve;Automatizar+%C3%A9+delegar+pro+futuro;Aprendizado+em+loop%2C+sem+break" alt="apresentação" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1400&color=58A6FF&center=true&vCenter=true&width=640&lines=Python%2C+automa%C3%A7%C3%A3o+e+projetos+pr%C3%B3prios;PyCharm+aberto%2C+Claude+Code+do+lado;No+GitHub+desde+2021" alt="apresentação" />
 
 </div>
 
@@ -13,10 +13,11 @@
 |  |  |
 |:--|:--|
 | **Base** | Python |
-| **No dia a dia** | JavaScript, Node, React, HTML/CSS — a linguagem segue o problema, não o contrário |
+| **Também uso** | JavaScript, C#, Node, React, HTML e CSS |
+| **Editor** | PyCharm, com Claude Code e Antigravity no fluxo |
 | **Foco** | automação de processos e projetos próprios |
 | **Em estudo** | IA aplicada e orquestração de agentes |
-| **Princípio** | se fiz duas vezes na mão, na terceira vira script |
+| **No GitHub desde** | outubro de 2021 |
 
 <br/>
 
@@ -35,6 +36,7 @@
 <td align="center"><b>No dia a dia</b></td>
 <td>
 <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
+<img src="https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=csharp&logoColor=512BD4" alt="c#" />
 <img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="node" />
 <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" />
 <img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26" alt="html5" />
@@ -80,27 +82,6 @@
 <br/><br/>
 
 <img src="https://ghchart.rshah.org/58a6ff/Dionatann" width="98%" alt="grade de contribuições do último ano" />
-
-</div>
-
-<br/>
-
-## Commitado
-
-<div align="center">
-
-<a href="https://github.com/Dionatann/8-Projetos_Python">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Dionatann&repo=8-Projetos_Python&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb" alt="8-Projetos_Python" />
-</a>
-<a href="https://github.com/Dionatann/Learning-Python-LP">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Dionatann&repo=Learning-Python-LP&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb" alt="Learning-Python-LP" />
-</a>
-<a href="https://github.com/Dionatann/personal-agenda">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Dionatann&repo=personal-agenda&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb" alt="personal-agenda" />
-</a>
-<a href="https://github.com/Dionatann/ELECTRON-FirstApp">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Dionatann&repo=ELECTRON-FirstApp&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb" alt="ELECTRON-FirstApp" />
-</a>
 
 </div>
 
