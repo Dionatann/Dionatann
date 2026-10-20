@@ -13,13 +13,27 @@ jobs:
   waka:
     name: Escrever tabela no README
     runs-on: ubuntu-latest
-    # Sem o secret configurado o job é pulado em vez de falhar todo dia.
-    # Para ativar:  gh secret set WAKATIME_API_KEY --repo Dionatann/Dionatann
-    if: ${{ secrets.WAKATIME_API_KEY != '' }}
     steps:
+      # Sem o secret configurado, os passos seguintes são pulados em vez de
+      # falhar todo dia.  Para ativar:
+      #   gh secret set WAKATIME_API_KEY --repo Dionatann/Dionatann
+      - name: Verificar se o secret existe
+        id: check
+        env:
+          WAKA_KEY: ${{ secrets.WAKATIME_API_KEY }}
+        run: |
+          if [ -n "$WAKA_KEY" ]; then
+            echo "has_key=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "has_key=false" >> "$GITHUB_OUTPUT"
+            echo "::notice::WAKATIME_API_KEY nao configurado; nada a fazer."
+          fi
+
       - uses: actions/checkout@v4
+        if: steps.check.outputs.has_key == 'true'
 
       - name: Gerar a tabela de horas por linguagem
+        if: steps.check.outputs.has_key == 'true'
         uses: athul/waka-readme@v0.3.1
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
