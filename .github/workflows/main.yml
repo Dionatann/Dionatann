@@ -1,23 +1,28 @@
-name: Generate Datas
+name: Gerar animação de contribuições
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+  schedule:
+    # a cada 12 horas, no minuto 0
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
-  build:
-    name: Jobs to update datas
+  snake:
+    name: Gerar snake.svg
     runs-on: ubuntu-latest
     steps:
-      # Snake Animation
-      - uses: Platane/snk@master
-        id: snake-gif
+      - name: Gerar o SVG
+        uses: Platane/snk@v3
         with:
-          github_user_name: Dionatann
-          svg_out_path: https://github.com/Dionatann/Dionatann/blob/output/github-contribution-grid-snake.svg
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake.svg?palette=github-dark&color_snake=#58a6ff
 
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+      - name: Publicar no branch output
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
